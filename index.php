@@ -10,7 +10,7 @@
             <div class="panel panel-primary">
                 <div class="panel-heading">
                     <h3 class="panel-title">
-                        Bronze</h3>
+                        Bronze3</h3>
                 </div>
                 <div class="panel-body">
                     <div class="the-price">
